@@ -19,12 +19,59 @@ body {
 }
 
 .title {
+    font-size: 1.15em;
     border: 1px dotted lightgrey;
+    text-align: center;
 }
 
 .image img {
     display: block;
     margin: 0px auto;
+    padding: 2.5% 0;
     width: 100px;
     height: auto;
+}
+
+.description {
+    text-align: justify;
+    padding: 0 0.5em;
+}
+
+.availability {
+    font-size: .85em;
+    padding-left: .25em;
+    padding-top: .25em;
+    background-color: #808080;
+    height: 17px;
+    color: yellow;
+}
+
+.two h5 {
+    font-size: 1.15em;
+    margin: 5% 0 -.75% 0;
+    padding-left: 2%;
+}
+
+.size, .weight {
+    font-size: 0.85em;
+    font-weight: bold;
+    padding-left: 5%;
+}
+
+article footer {
+    margin-top: .5em;
+    font-size: .4em;
+
+}
+
+.three h4 {
+    font-size: 1.15em;
+    font-weight: 600;
+    margin: -.5% 2.5%;
+}
+
+.quantity {
+    margin: 0 4%;
+    font-size: 0.85em;
+    font-weight: 600;
 }
