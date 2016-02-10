@@ -14,7 +14,7 @@ body {
 .card {
     margin: 0 10px;
     display: inline-block;
-    max-width: 30%;
+    width: 30%;
     border: 1px solid lightblue;
 }
 
@@ -60,7 +60,7 @@ body {
 
 article footer {
     margin-top: .5em;
-    font-size: .4em;
+    font-size: .65em;
 
 }
 
