@@ -24,17 +24,22 @@ body {
     text-align: center;
 }
 
+.image {
+    max-height: 118px;
+}
+
 .image img {
     display: block;
     margin: 0px auto;
     padding: 2.5% 0;
     width: 100px;
-    height: auto;
+    
 }
 
 .description {
     text-align: justify;
     padding: 0 0.5em;
+    height: 5em;
 }
 
 .availability {
